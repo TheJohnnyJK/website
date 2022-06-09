@@ -1,0 +1,25 @@
+body {
+  background-color: #B3E8E5
+}
+
+hr {
+  background-color: #B3E8E5;
+  border-style: none;
+  border-top: 1px dotted black;
+  border-width: 6px;
+  width: 5%;
+  border-color: #47B5FF;
+  border-collapse: separate;
+  border-spacing: 5px;
+}
+
+h1 {
+  color: #06283D;
+  font-family: fantasy;
+
+}
+
+h3 {
+  color: #06283D;
+  font-family: fantasy;
+}
